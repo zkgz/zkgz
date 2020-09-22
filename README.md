@@ -1,7 +1,7 @@
 # ZINEDINE KAHLIL GIBRAN ZIDANE
-
-![](https://komarev.com/ghpvc/?username=zkgz&color=brightgreen)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zkgz&color=brightgreen"/>
+</p>
 <a href="#" align="center">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=zkgz&column=7&theme=onedark"/>
