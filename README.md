@@ -72,7 +72,11 @@
 <a href="https://github.com/zkgz" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="me" height="20" width="20" />
 </a>
-<a href="https://steamcommunity.com/id/shadowcaster16/" target="blank">
+<a href="https://steamcommunity.com/id/shadowcaster16" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="me" height="20" width="20" />
 </a>
+<a href="https://stackoverflow.com/users/8558198/meowulf" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="me" height="20" width="20" />
+</a>
+
 </p>
