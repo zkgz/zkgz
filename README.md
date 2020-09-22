@@ -67,10 +67,12 @@
 
 
 <a href="https://www.reddit.com/user/meowulf9" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="me" height="20" width="20" />
 </a>
 <a href="https://github.com/zkgz" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="me" height="20" width="20" />
 </a>
-
+<a href="https://steamcommunity.com/id/shadowcaster16/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="me" height="20" width="20" />
+</a>
 </p>
