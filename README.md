@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=zkgz&color=brightgreen)
+
 <a href="#">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=zkgz&column=7&theme=onedark"/>
