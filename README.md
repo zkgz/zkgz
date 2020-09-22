@@ -1,3 +1,9 @@
+<a href="#">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=zkgz&column=7&theme=onedark"/>
+    </p>
+</a>
+
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
