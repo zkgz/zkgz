@@ -78,6 +78,9 @@ My Other Profiles Across the Internet:
 <a href="https://stackoverflow.com/users/8558198/meowulf" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="me" height="32" width="32" />
 </a>
+<a href="https://www.linkedin.com/in/gibran-zidane-329124131/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="me" height="32" width="32" />
+</a>
 <a href="https://www.instagram.com/zk.gz" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me" height="32" width="32" />
 </a>
