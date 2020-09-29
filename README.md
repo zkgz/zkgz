@@ -87,4 +87,7 @@ My Other Profiles Across the Internet:
 <a href="https://osu.ppy.sh/users/4206408" target="blank">
 <img align="center" src="https://www.vhv.rs/dpng/f/151-1513560_pokemon-symbol-png.png" alt="me" height="32" width="32" />
 </a>
+<a href="https://data.typeracer.com/pit/profile?user=typowriter16" target="blank">
+<img align="center" src="https://i.imgur.com/D0xW6SE.png" alt="me" height="32" width="32" />
+</a>
 </p>
