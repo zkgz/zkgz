@@ -57,9 +57,6 @@ My Other Profiles Across the Internet:
 <a href="https://www.instagram.com/zk.gz" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="me" height="32" width="32" />
 </a>
-<a href="https://www.facebook.com/gibran.zidane" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="me" height="32" width="32" />
-</a>
 <a href="https://osu.ppy.sh/users/4206408" target="blank">
 <img align="center" src="https://www.vhv.rs/dpng/f/151-1513560_pokemon-symbol-png.png" alt="me" height="32" width="32" />
 </a>
