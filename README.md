@@ -14,6 +14,11 @@
     </p>
     
 </a>
+<p align="center">
+    <a href="https://stackoverflow.com/users/8558198/meowulf">
+        <img src="https://stackoverflow.com/users/flair/8558198.png" width="208" height="58" alt="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    </a>
+</p>
 
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
