@@ -19,7 +19,9 @@
         <img src="https://stackoverflow.com/users/flair/8558198.png?theme=dark" width="208" height="58" alt="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
     </a>
 </p>
-
+<p align="center">
+<a href="https://data.typeracer.com/pit/profile?user=typowriter16&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=typowriter16" border="0" alt="TypeRacer.com scorecard for user typowriter16"/></a>
+</p>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="25" height="25"/> 
