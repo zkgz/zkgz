@@ -22,8 +22,7 @@
 
 <p align="center">
 <a href="https://data.typeracer.com/pit/profile?user=typowriter16&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=typowriter16" border="0" alt="TypeRacer.com scorecard for user typowriter16"/></a></br>
-    <a href="https://www.credly.com/users/zinedine-kahlil-gibran-zidane/badges"> <img src="https://images.credly.com/size/340x340/images/63571d4f-5f1b-462e-9f67-235b525c3aba/CR2968-SCL-Merch_badge_v2_EA_20210319.png"/>
-        </a>
+
 </p>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
