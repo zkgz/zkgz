@@ -1,12 +1,15 @@
 <p align="center">
+NOW ON <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
+</p>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=zkgz&color=brightgreen"/>
 </p>
+
 <a href="#" align="center">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=zkgz&column=7&theme=onedark"/>
     </p>
 </a>
-
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="#">
     <p align="center">
