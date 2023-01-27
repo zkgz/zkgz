@@ -1,5 +1,5 @@
 <p align="center">
-NOW ON <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
+Also on <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=zkgz&color=brightgreen"/>
