@@ -48,12 +48,7 @@ My Other Profiles Across the Internet:
 <br/>
 
 
-<a href="https://www.reddit.com/user/meowulf9" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="me" height="32" width="32" />
-</a>
-<a href="https://github.com/zkgz" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="me" height="32" width="32" />
-</a>
+
 <a href="https://steamcommunity.com/id/shadowcaster16" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="me" height="32" width="32" />
 </a>
