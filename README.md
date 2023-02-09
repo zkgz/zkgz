@@ -5,11 +5,6 @@ Also on <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
 <img src="https://komarev.com/ghpvc/?username=zkgz&color=brightgreen"/>
 </p>
 
-<a href="#" align="center">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=zkgz&column=7&theme=onedark"/>
-    </p>
-</a>
 <!-- My GitHub stats with buefy theme ❤️ -->
 <a align="center" href="#">
     <p align="center">
@@ -17,6 +12,12 @@ Also on <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
     </p>
     
 </a>
+<div align="center">
+    
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zkgz&theme=tokyonight)](https://git.io/streak-stats)
+    
+</div>
+
 <p align="center">
     <a href="https://stackoverflow.com/users/8558198/meowulf">
         <img src="https://stackoverflow.com/users/flair/8558198.png?theme=dark" width="208" height="58" alt="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for meowulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
@@ -25,7 +26,6 @@ Also on <a align="center" href="https://gitlab.com/zkgz"> GitLab</a>
 
 <p align="center">
 <a href="https://data.typeracer.com/pit/profile?user=typowriter16&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=typowriter16" border="0" alt="TypeRacer.com scorecard for user typowriter16"/></a></br>
-
 </p>
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
