@@ -2,11 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=zkgz&color=brightgreen"/>
 </p>
 
-<div align="center">
-    
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zkgz&theme=tokyonight)](https://git.io/streak-stats)
-    
-</div>
 
 <p align="center">
 <a href="https://data.typeracer.com/pit/profile?user=typowriter16&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=typowriter16" border="0" alt="TypeRacer.com scorecard for user typowriter16"/></a></br>
